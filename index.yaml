@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   cbchart:
   - apiVersion: v2
-    created: "2025-11-06T10:24:06.86795993Z"
+    created: "2025-11-07T11:20:15.44694383Z"
     description: A Helm chart for Kubernetes
-    digest: 87c3acf81ebe74691cba3fbf788e14e1bdc2306565036dd18f2cc50c758bc5aa
+    digest: 281ee6321e2308a5ea9e2475da84206c7efb7f1bc2add07911283f31e1368897
     name: cbchart
     type: application
     urls:
-    - cbchart-0.1.0.tgz
+    - https://niketajain123.github.io/chatbot-chart/cbchart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-06T10:24:06.866893396Z"
+generated: "2025-11-07T11:20:15.44513025Z"

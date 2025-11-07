@@ -1,7 +1,7 @@
 replicaCount: 3
 image:
   repository: niketa15jain/chatbot
-  pullPolicy: IfNotPresent
+  pullPolicy: Always
   tag: "latest"
 
 nameOverride: ""
